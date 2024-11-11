@@ -17,7 +17,7 @@ export default function Home() {
           Erik Morgan welcomes <a href="https://nextjs.org">Next.js!</a>
       </h1>
       <p>
-        For my final project, we will be presenting on DDOS attacks and recursive calls <a href='http://csci331vm.cs.montana.edu/~w17h449/' />
+        For my final project, we will be presenting on DDOS attacks and recursive calls <a href='https://github.com/morganerik9/mern' github/>
       </p>
       <Counter />
       <Counter2 />
